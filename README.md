@@ -83,5 +83,5 @@ This project was developed without the use of most standard library functions. T
 
 ## Authors
 
-- Manuel Puerta Villa
-- Miguel Palacios
+- Brian Kingori Murage
+- Moruri Sammy Nyamweya
